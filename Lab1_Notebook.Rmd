@@ -1,0 +1,13 @@
+
+---
+title: "Lab1_Notebook"
+output:
+  html_document:
+    toc: true
+---
+
+
+```{r}
+rbinom(100, 100, 0.5)
+```
+
